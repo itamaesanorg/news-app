@@ -1,0 +1,8 @@
+export default function Anidado2() {
+    return (
+        <div>
+        <h1>Anidado 2</h1>
+        <p>This is the anidado 2 page</p>
+        </div>
+    )
+    }
