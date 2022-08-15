@@ -1,9 +1,7 @@
+import PageLayout from "../bento/PageLayout";
+
 export default function About() {
-  return (
-    <div>
-      <h1>About</h1>
-      <p>This is the about page</p>
-      <div>This is a div</div>
-    </div>
-  )
+  return <PageLayout title='News App - About'>
+    <h1>This is the About Page</h1>
+  </PageLayout>
 }

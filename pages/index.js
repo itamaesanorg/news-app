@@ -8,14 +8,10 @@ import PageLayout from '../bento/PageLayout'
 export default function Home() {
   return (
     <PageLayout title='News App - Home'>
-    <div className={styles.container}>
-      <Head>
-        <title>NewsApp - Home</title>
-      </Head>
-
-      <h1>Learning NextJS with ITAMAESAN</h1>
-      <Link href='/about'>About</Link>
-    </div>
+      <div className={styles.container}>
+        <h1>Learning NextJS with ITAMAESAN</h1>
+        <Link href='/about'>About</Link>
+      </div>
     </PageLayout>
   )
 }
