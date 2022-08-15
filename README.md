@@ -20,4 +20,4 @@
  - -> [10 Learn NextJS, Fecth data, ITAMAESAN](https://github.com/itamaesanorg/How-To-NextJS/blob/main/10%20Learn%20NextJS%2C%20Writting...%2C%20ITAMAESAN.md)
 
 While this is a project on the go, I have a few things to prepare for this lesson, stay tunned, and do not dishesitate to ask for help on Twitter:
-[ITAMEASAN TWITTER](httpt://twitter.com/itameasanorg)
+[ITAMEASAN TWITTER](https://twitter.com/itameasanorg)
